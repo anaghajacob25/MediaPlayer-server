@@ -1,0 +1,94 @@
+{
+  "video": [
+    {
+      "id": "2",
+      "caption": "Hi Nanna: Raathaarakaye",
+      "imageUrl": "https://cdn.gulte.com/wp-content/uploads/2023/12/Hi-Nanna-Movie-Review.jpg",
+      "embedLink": "https://www.youtube.com/embed/HYR60OMGN14"
+    },
+    {
+      "id": "3",
+      "caption": "Jawaan:Song",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-08/25/full/1692959463-8999.png",
+      "embedLink": "https://www.youtube.com/embed/cTtUOtiVUXQ"
+    },
+    {
+      "id": "5",
+      "caption": "Kurchi Madathapetti Full Video Song",
+      "imageUrl": "https://cdn.123telugu.com/content/wp-content/uploads/2023/11/Guntur-Kaaram-m-1.jpg",
+      "embedLink": "https://www.youtube.com/embed/gh3FyLT7WVg"
+    },
+    {
+      "id": "6",
+      "caption": "Konjathe Konjathe",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmQ3YjllYTctNDM1Zi00Y2VhLWIxMWMtMTUzZmNjZTdiMGY0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/Ivy0YvFjBgo"
+    },
+    {
+      "id": "7",
+      "caption": "'Chittiyaan Kalaiyaan' FULL VIDEO SONG",
+      "imageUrl": "https://www.india.com/wp-content/uploads/2015/06/roy-chittiyan-song.jpg",
+      "embedLink": "https://www.youtube.com/embed/zpsVpnvFfZQ"
+    },
+    {
+      "id": "8",
+      "caption": "Mazhathullikal Video Song HD",
+      "imageUrl": "https://images.hungama.com/c/1/94b/726/90389516/90389516_300x300.jpg",
+      "embedLink": "https://www.youtube.com/embed/brivDcJamGY"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Hi Nanna: Raathaarakaye",
+      "url": "https://www.youtube.com/embed/HYR60OMGN14",
+      "timeStamp": "12/03/2024, 12:24:28",
+      "id": 1
+    },
+    {
+      "caption": "Konjathe Konjathe",
+      "url": "https://www.youtube.com/embed/Ivy0YvFjBgo",
+      "timeStamp": "17/03/2024, 21:22:07",
+      "id": 2
+    },
+    {
+      "caption": "Mazhathullikal Video Song HD",
+      "url": "https://www.youtube.com/embed/brivDcJamGY",
+      "timeStamp": "18/03/2024, 11:48:14",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "category": "Latest songs",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "category": "Malayalam songs",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Konjathe Konjathe",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmQ3YjllYTctNDM1Zi00Y2VhLWIxMWMtMTUzZmNjZTdiMGY0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+          "embedLink": "https://www.youtube.com/embed/Ivy0YvFjBgo"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "category": "Hindi songs",
+      "allVideos": [],
+      "id": 4
+    },
+    {
+      "category": "Cartoon Videos",
+      "allVideos": [],
+      "id": 5
+    },
+    {
+      "category": "Tamil songs",
+      "allVideos": [],
+      "id": 6
+    }
+  ]
+}
